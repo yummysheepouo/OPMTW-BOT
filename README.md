@@ -1,5 +1,5 @@
 # 關於本機器人
-<h3> 本機器人為一拳超人︰最強之男遊戲官方DC機器人，由Yummysheep使用Node.js模組使用javascript編寫。此機器人旨在提供遊戲資訊。代碼供大家參考學習研究。</h3>
+<h3> 本機器人為一拳超人︰最強之男遊戲官方DC機器人，由Yummysheep使用Node.js模組使用javascript編寫。此機器人旨在提供遊戲資訊。代碼供大家學習研究。</h3>
 
 # 更新
 ```
@@ -14,6 +14,7 @@
 >`/ssr-plus-hero` `/ssr-plus-monster`指令
 
 # 在自己的機器人上使用代碼
+# 注意︰禁止用於商業用途，或在非本人授權下更改代碼並公開已更改代碼，只允許參考及研究。本人保留最終決定權。
 ### 請確保你本機已安裝`node.js`及`visual studio code`。<br /><br />
 ### 安裝`node.js`
 > https://nodejs.org/en/<br />
