@@ -16,11 +16,11 @@
 # 在自己的機器人上使用代碼
 ### 請確保你本機已安裝`node.js`及`visual studio code`。<br /><br />
 ### 安裝`node.js`
-> https://code.visualstudio.com/<br />
+> https://nodejs.org/en/<br />
 如果已安裝則不用再安裝<br /><br />
 
 ### 安裝`visual studio code`
-> https://nodejs.org/en<br />
+> https://code.visualstudio.com<br />
 如果已安裝則不用再安裝<br /><br />
 
 1. 下載上面所有檔案，解壓，放在同一個資料夾裡。
