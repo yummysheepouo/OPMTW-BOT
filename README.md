@@ -9,7 +9,7 @@
 `/ur-monster`
 `/help`指令
 ```
-2024/12/28-2024/12/29正在更新
+目前正在更新
 ```
 >`/ssr-plus-hero` `/ssr-plus-monster`指令
 
