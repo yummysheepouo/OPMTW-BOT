@@ -13,7 +13,7 @@
 ```
 >`/ssr-plus-hero` `/ssr-plus-monster`指令
 
-# 自己使用
+# 在自己的機器人上使用代碼
 ### 請確保你本機已安裝`node.js`及`visual studio code`。<br /><br />
 ### 安裝`node.js`
 > https://code.visualstudio.com/<br />
