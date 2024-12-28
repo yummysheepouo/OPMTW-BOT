@@ -25,17 +25,14 @@
 
 1. 下載上面所有檔案，解壓，放在同一個資料夾裡。
 
+2. 下載我提供已經安裝好的`discord.js`的`node_modules`，也就是模組。解壓，把它放進同一個資料夾裡。
+<br />下載連結︰https://drive.google.com/file/d/1WZGKbJ9XmxlLLDCwh-XEmWhDShST0-Rq/view?usp=sharing
+<br /><br />然後你會看到︰
 ![image](https://github.com/user-attachments/assets/ab9bfdc6-d835-49e1-abce-ef83bd6abd56)
 
-2. 使用`visual studio code`打開`index.js`，然後在`visual studio code`的左方按`open folder`，選取機器人的資料夾。然後按ctrl+`打開終端機，輸入下方指令安裝discord.js
-```
-npm install discord.js
-```
-![image](https://github.com/user-attachments/assets/9297d7af-0876-48cc-a65b-d27040af7612)
-
-3. 在.env檔案中更換檔案中的token和client id，可以在 https://discord.com/developers/applications 裡找到。
+4. 使用`visual studio code`打開.env檔案。在.env檔案中更換檔案中的token和client id，可以在 https://discord.com/developers/applications 裡找到。
 ![image](https://github.com/user-attachments/assets/e8e39464-f078-45a8-90b8-03aeee2c8577)
 
-5. 在同一個資料夾裡打開終端機，輸入`node index.js`，出現以下圖示代表運行成功<br />
+5. 在`visual studio code`裡打開終端機，輸入`node index.js`，出現以下圖示代表運行成功<br />
 ![image](https://github.com/user-attachments/assets/99dc63eb-ad21-4d1b-8157-b301fa6ae819)
 
