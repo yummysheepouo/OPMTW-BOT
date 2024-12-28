@@ -27,7 +27,7 @@
 
 ![image](https://github.com/user-attachments/assets/ab9bfdc6-d835-49e1-abce-ef83bd6abd56)
 
-2. 使用`visual studio code`打開`index.js`，然後在`visual studio code`的左方按`open folder`，選取機器人的資料夾。然後打開按ctrl+`打開終端機，輸入下方指令安裝discord.js
+2. 使用`visual studio code`打開`index.js`，然後在`visual studio code`的左方按`open folder`，選取機器人的資料夾。然後按ctrl+`打開終端機，輸入下方指令安裝discord.js
 ```
 npm install discord.js
 ```
