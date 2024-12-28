@@ -1,5 +1,5 @@
 # 關於本機器人
-本機器人為一拳超人︰最強之男遊戲官方DC機器人，由Yummysheep使用Node.js模組使用javascript編寫。此機器人旨在提供遊戲資訊。代碼供大家參考學習研究。
+<h3> 本機器人為一拳超人︰最強之男遊戲官方DC機器人，由Yummysheep使用Node.js模組使用javascript編寫。此機器人旨在提供遊戲資訊。代碼供大家參考學習研究。</h3>
 
 # 更新
 ```
@@ -15,13 +15,13 @@
 
 # 自己使用
 ### 請確保你本機已安裝`node.js`及`visual studio code`。<br /><br />
-安裝`node.js`<br />
-https://code.visualstudio.com/<br />
+### 安裝`node.js`
+> https://code.visualstudio.com/<br />
 如果已安裝則不用再安裝<br /><br />
 
-安裝`visual studio code`<br />
-https://nodejs.org/en<br />
-如果已安裝則不用再安裝<br />
+### 安裝`visual studio code`
+> https://nodejs.org/en<br />
+如果已安裝則不用再安裝<br /><br />
 
 1. 下載上面所有檔案，解壓，放在同一個資料夾裡。
 
