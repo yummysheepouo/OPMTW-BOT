@@ -9,9 +9,9 @@
 `/ur-monster`
 `/help`指令
 ```
-目前正在更新
+2024/12/29更新
 ```
->`/ssr-plus-hero` `/ssr-plus-monster`指令
+>加入了`/ssr-plus-hero` `/ssr-plus-monster`指令
 
 # 在自己的機器人上使用代碼
 # 注意︰禁止用於商業用途，或在非本人授權下更改代碼並公開已更改代碼，只允許參考及研究。本人保留最終決定權。
