@@ -13,6 +13,13 @@ const ZombieMan = require('../data/ssr-plus/ZombieMan.js')
 const Prisoner = require('../data/ssr-plus/Prisoner.js')
 const MetalKnight = require('../data/ssr-plus/MetalKnight.js')
 const Darkshine = require('../data/ssr-plus/Darkshine.js')
+const Moshan = require('../data/ssr-plus/Moshan.js')
+const Boros = require('../data/ssr-plus/Boros.js')
+const Ashura = require('../data/ssr-plus/Ashura.js')
+const Geryuganshoop = require('../data/ssr-plus/Geryuganshoop.js')
+const Houjie = require('../data/ssr-plus/Houjie.js')
+const Bigeye = require('../data/ssr-plus/Bigeye.js')
+const DeepSeaKing = require('../data/ssr-plus/DeepSeaKing.js')
 
 const languages = [
   '中文'
@@ -76,6 +83,30 @@ module.exports = {
             case 'Darkshine':
             Darkshine.DarkshineGuide[page].components[0].components[2].data.label = `${page}/1`
             return Darkshine.DarkshineGuide[page]
+            case 'Moshan':
+            Moshan.MoshanGuide[page].components[0].components[2].data.label = `${page}/1`
+            return Moshan.MoshanGuide[page]
+            case 'Boros':
+            Boros.BorosGuide[page].components[0].components[2].data.label = `${page}/1`
+            return Boros.BorosGuide[page]
+            case 'Ashura':
+            Ashura.AshuraGuide[page].components[0].components[2].data.label = `${page}/1`
+            return Ashura.AshuraGuide[page]
+            case 'Geryuganshoop':
+            Geryuganshoop.GeryuganshoopGuide[page].components[0].components[2].data.label = `${page}/1`
+            return Geryuganshoop.GeryuganshoopGuide[page]
+            case 'Houjie':
+            Houjie.HoujieGuide[page].components[0].components[2].data.label = `${page}/1`
+            return Houjie.HoujieGuide[page]
+            case 'Bigeye':
+            Bigeye.BigeyeGuide[page].components[0].components[2].data.label = `${page}/1`
+            return Bigeye.BigeyeGuide[page]
+            case 'DeepSeaKing':
+            DeepSeaKing.DeepSeaKingGuide[page].components[0].components[2].data.label = `${page}/1`
+            return DeepSeaKing.DeepSeaKingGuide[page]
+            
+
+
             
 
 
