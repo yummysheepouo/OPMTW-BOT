@@ -3,7 +3,7 @@ const embed = require('../../config/data/ssr-plus/SelectMenu.js')
 const { pageToEmbed } = require('../../config/util/util.js')
 
 module.exports = {
-    name: 'ssr-plus-hero',
+    name: 'ssr_加_英雄',
     description: '獲取SSR+英雄/武道家資訊',
     type: ApplicationCommandType.ChatInput,
     userPerms: [],
