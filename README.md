@@ -24,7 +24,7 @@
 `/ur-hero` `/ur-monster`指令更名為`/ur英雄`及`/ur怪人` <br />
 `/ssr-plus-hero` `/ssr-plus-monster`指令更名為`/ssr_加_英雄`及`/ssr_加_怪人` <br />
 
-```
+
 # 在自己的機器人上使用代碼
 # 注意︰禁止用於商業用途，或在非本人授權下更改代碼並公開已更改代碼，只允許參考及研究。本人保留最終決定權。
 ### 請確保你本機已安裝`node.js`及`visual studio code`。<br /><br />
