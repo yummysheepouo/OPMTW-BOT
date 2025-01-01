@@ -20,6 +20,8 @@ const Geryuganshoop = require('../data/ssr-plus/Geryuganshoop.js')
 const Houjie = require('../data/ssr-plus/Houjie.js')
 const Bigeye = require('../data/ssr-plus/Bigeye.js')
 const DeepSeaKing = require('../data/ssr-plus/DeepSeaKing.js')
+const Melzagard = require('../data/ssr-plus/Melzagard.js')
+const Goribas = require('../data/ssr-plus/Goribas.js')
 
 const languages = [
   '中文'
@@ -104,6 +106,13 @@ module.exports = {
             case 'DeepSeaKing':
             DeepSeaKing.DeepSeaKingGuide[page].components[0].components[2].data.label = `${page}/1`
             return DeepSeaKing.DeepSeaKingGuide[page]
+            case 'Melzagard':
+            Melzagard.MelzagardGuide[page].components[0].components[2].data.label = `${page}/1`
+            return Melzagard.MelzagardGuide[page]
+            case 'Goribas':
+            Goribas.GoribasGuide[page].components[0].components[2].data.label = `${page}/1`
+            return Goribas.GoribasGuide[page]
+            
             
 
 
