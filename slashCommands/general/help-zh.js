@@ -22,22 +22,22 @@ module.exports = {
                 description: '最後更新︰2024年12月',
                 fields: [
                     {
-                        name: '/ur-hero ',
+                        name: '/ur英雄',
                         value: '獲取所有UR英雄/武道家資訊',
         
                     },
                     {
-                        name: '/ur-monster ',
+                        name: '/ur怪人',
                         value: '獲取所有UR怪人/懸賞犯資訊',
         
                     },
                     {
-                        name: '/ssr-plus-hero ',
+                        name: '/ssr_加_英雄',
                         value: '獲取所有SSR+英雄/武道家資訊',
         
                     },
                     {
-                        name: '/ssr-plus-monster ',
+                        name: '/ssr_加_怪人',
                         value: '獲取所有SSR+怪人/懸賞犯資訊'
                     }
                     
