@@ -3,7 +3,7 @@ const embed = require('../../config/data/ssr-plus/SelectMenu.js')
 const { pageToEmbed } = require('../../config/util/util.js')
 
 module.exports = {
-    name: 'ssr-plus-monster',
+    name: 'ssr_加_怪人',
     description: '獲取SSR+怪人/懸賞犯資訊',
     type: ApplicationCommandType.ChatInput,
     userPerms: [],
@@ -79,6 +79,18 @@ module.exports = {
                                 label: '【極限】深海王',
                                 description: "點擊查看【極限】深海王的詳細資料",
                                 value: "DeepSeaKing",
+                                emoji: "<:ssr_plus:1322556525105123379>",
+                            },
+                            {
+                                label: '【覺醒】梅爾薩加德',
+                                description: "點擊查看【覺醒】梅爾薩加德的詳細資料",
+                                value: "Melzagard",
+                                emoji: "<:ssr_plus:1322556525105123379>",
+                            },
+                            {
+                                label: '【覺醒】葛羅里巴斯',
+                                description: "點擊查看【覺醒】葛羅里巴斯的詳細資料",
+                                value: "Goribas",
                                 emoji: "<:ssr_plus:1322556525105123379>",
                             },
                             
@@ -187,7 +199,16 @@ module.exports = {
                         page = 0;
                         interaction.editReply(pageToEmbed(page, guide, language))
                         break;
-                        
+                        case 'Melzagard':
+                        guide = 'Melzagard'
+                        page = 0;
+                        interaction.editReply(pageToEmbed(page, guide, language))
+                        break;
+                        case 'Goribas':
+                        guide = 'Goribas'
+                        page = 0;
+                        interaction.editReply(pageToEmbed(page, guide, language))
+                        break;
                         
                         
                 }
