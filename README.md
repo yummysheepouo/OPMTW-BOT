@@ -20,9 +20,9 @@
 ```
 2025/1/1更新
 ```
-`/ssr-plus-monster`指令已完成 <br />
-`/ur-hero` `/ur-monster`指令更名為`/ur英雄`及`/ur怪人` <br />
-`/ssr-plus-hero` `/ssr-plus-monster`指令更名為`/ssr_加_英雄`及`/ssr_加_怪人` <br />
+>`/ssr-plus-monster`指令已完成 <br />
+>`/ur-hero` `/ur-monster`指令更名為`/ur英雄`及`/ur怪人` <br />
+>`/ssr-plus-hero` `/ssr-plus-monster`指令更名為`/ssr_加_英雄`及`/ssr_加_怪人` <br />
 
 
 # 在自己的機器人上使用代碼
