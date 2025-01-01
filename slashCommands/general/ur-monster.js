@@ -11,7 +11,7 @@ const {
 } = require('../../config/data/ur-monster.js')
 
 module.exports = {
-    name: 'ur-monster',
+    name: 'ur怪人',
     description: '獲取UR怪人/懸賞犯資訊',
     type: ApplicationCommandType.ChatInput,
     userPerms: [],

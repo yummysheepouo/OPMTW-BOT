@@ -11,7 +11,7 @@ const {
 } = require('../../config/data/ur-hero.js')
 
 module.exports = {
-    name: 'ur-hero',
+    name: 'ur英雄',
     description: '獲取UR英雄/武道家資訊',
     type: ApplicationCommandType.ChatInput,
     userPerms: [],
