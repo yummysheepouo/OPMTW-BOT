@@ -1,3 +1,11 @@
+<html>    <p align="center">
+        <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/yummysheepouo/OPMTW-BOT/total?style=for-the-badge">   
+        <img src="https://img.shields.io/github/issues/yummysheepouo/OPMTW-BOT?label=ISSUES%20OPEN&style=for-the-badge" alt="Issues Open">
+        <img src="https://img.shields.io/github/commit-activity/m/yummysheepouo/OPMTW-BOT?style=for-the-badge" alt="Commits Per Week">
+        <img src="https://img.shields.io/github/last-commit/yummysheepouo/OPMTW-BOT?style=for-the-badge" alt="Last Commit">
+    </p>
+</html>
+
 # 關於本機器人
 <h3> 本機器人為一拳超人︰最強之男遊戲官方DC機器人，由Yummysheep使用Node.js模組使用javascript編寫。此機器人旨在提供遊戲資訊。代碼供大家學習研究。</h3> <br/>
 <h3> 目前已有指令︰</h3>
